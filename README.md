@@ -1,4 +1,4 @@
-# Zomato-restaurant-dashboard
+# Restaurant Analytics Dashboard
 This project showcases an interactive dashboard built using Power BI to visualize restaurant data including locations, ratings, cuisines, and service availability.
 
 ## 📊 Features
